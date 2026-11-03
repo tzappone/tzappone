@@ -24,7 +24,7 @@ This portfolio showcases projects that I have completed during my time at the Un
 ## 🛠️ Technical Skills
 
 - **Programming:**
-Python, SQL, HTML, C# 
+Python, SQL, HTML, C#, Visual Studio
 
 - **Data Analytics:** 
 Power BI (In Progress), Excel, Data Visualization 
@@ -32,5 +32,17 @@ Power BI (In Progress), Excel, Data Visualization
 - **Database Management:**
 ERD Modeling, Relational Databases, Visio 
 
-- **Business Analysis:** Requirements Gathering, Process Modeling, Documentation
+- **Business Analysis:** Requirements Gathering, Process Modeling, Documentation, Microsoft Office (Word, PowerPoint, Outlook), SharePoint
+
+## 🤝 Soft Skills
+
+Analytical Thinking, Problem-Solving, Communication, Critical Thinking
+
+Attention to Detail
+
+Collaboration
+
+Adaptability
+
+Time Management
 
