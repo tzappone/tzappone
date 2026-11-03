@@ -38,3 +38,8 @@ ERD Modeling, Relational Databases, Visio
 
 Analytical Thinking, Problem-Solving, Communication, Critical Thinking, Attention to Detail, Collaboration, Adaptability, Time Management
 
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tiziana-zappone/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:evelynzappone@gmail.com)
+
