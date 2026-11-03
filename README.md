@@ -40,7 +40,7 @@ Analytical Thinking, Problem-Solving, Communication, Critical Thinking, Attentio
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tiziana-zappone/) \
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tiziana-zappone/) 
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:evelynzappone@gmail.com)
 
