@@ -4,9 +4,19 @@ I am a student at the University of Louisville double majoring in Computer Infor
 This portfolio showcases projects that I have completed during my time at the University of Louisville. Thank you for taking the time to review my work!
 
 ## Business Systems and Analysis:
-- [Requirements Gathering](https://github.com/tzappone/RequirementsGathering)
+- [Systems Requirements Gathering](https://github.com/tzappone/RequirementsGathering)
+- [Use Cases](https://github.com/tzappone/UseCases)
+- [Business Process Modeling](https://github.com/tzappone/BusinessProcessModeling)
+- [Subway Case Study - Implemenation of Facial Recognition Technology](https://github.com/tzappone/CaseStudy)
 ## Database Design and System Architecture:
-
+- [User Interface Built for a Local Non-Profit](https://github.com/tzappone/UserInterface)
+- [Crow's Foot Entity Relationship Diagram (ERD)](https://github.com/tzappone/ERD)
+- [SQL Work](https://github.com/tzappone/SQLScript)
 ## Programming Skills:
-
+- [HTML Rooms Page](https://github.com/tzappone/Webpage)
+- [C# Payroll System](https://github.com/tzappone/PayrollSystem)
+- [C# Shipping Calculator](https://github.com/tzappone/C-ShippingCalculator)
+- [C# Admission Tracker](https://github.com/tzappone/C-AdmissionTracker)
+- [Python - Linear Regression](https://github.com/tzappone/Python-LinearRegression)
+- [Python - SKLearn](https://github.com/tzappone/Python-SKLearn)
 
