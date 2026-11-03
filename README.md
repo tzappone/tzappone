@@ -20,16 +20,17 @@ This portfolio showcases projects that I have completed during my time at the Un
 - [Python - Linear Regression](https://github.com/tzappone/Python-LinearRegression)
 - [Python - SKLearn](https://github.com/tzappone/Python-SKLearn)
 
+
 ## 🛠️ Technical Skills
 
 - **Programming:**
-Python, SQL, HTML, C# \
+Python, SQL, HTML, C# 
 
 - **Data Analytics:** 
-Power BI (In Progress), Excel, Data Visualization \
+Power BI (In Progress), Excel, Data Visualization 
 
 - **Database Management:**
-ERD Modeling, Relational Databases, Visio \
+ERD Modeling, Relational Databases, Visio 
 
 - **Business Analysis:** Requirements Gathering, Process Modeling, Documentation
 
