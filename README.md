@@ -1,10 +1,9 @@
 # Tiziana Zappone
-### Finance | Computer Information Systems | Data Analytics
 #### Student at the University of Louisville, May 2027 Graduate
 I am a student at the University of Louisville double majoring in Computer Information Systems with a focus in Data Analytics and Finance, and a minor in Real Estate. Currently, I intern at PPL Corporation as an IT Business Analyst Intern on the Intelligent Business Automation team. 
 This portfolio showcases projects that I have completed during my time at the University of Louisville. Thank you for taking the time to review my work!
 
-## Business Systems and Analysis:
+## Business and Systems Analysis:
 - [Systems Requirements Gathering](https://github.com/tzappone/RequirementsGathering)
 - [Use Cases](https://github.com/tzappone/UseCases)
 - [Business Process Modeling](https://github.com/tzappone/BusinessProcessModeling)
@@ -13,11 +12,24 @@ This portfolio showcases projects that I have completed during my time at the Un
 - [User Interface Built for a Local Non-Profit](https://github.com/tzappone/UserInterface)
 - [Crow's Foot Entity Relationship Diagram (ERD)](https://github.com/tzappone/ERD)
 - [SQL Work](https://github.com/tzappone/SQLScript)
-## Programming Skills:
+## Programming and Development:
 - [HTML Rooms Page](https://github.com/tzappone/Webpage)
 - [C# Payroll System](https://github.com/tzappone/PayrollSystem)
 - [C# Shipping Calculator](https://github.com/tzappone/C-ShippingCalculator)
 - [C# Admission Tracker](https://github.com/tzappone/C-AdmissionTracker)
 - [Python - Linear Regression](https://github.com/tzappone/Python-LinearRegression)
 - [Python - SKLearn](https://github.com/tzappone/Python-SKLearn)
+
+## 🛠️ Technical Skills
+
+- **Programming:**
+Python, SQL, HTML, C# \
+
+- **Data Analytics:** 
+Power BI (In Progress), Excel, Data Visualization \
+
+- **Database Management:**
+ERD Modeling, Relational Databases, Visio \
+
+- **Business Analysis:** Requirements Gathering, Process Modeling, Documentation
 
